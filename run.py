@@ -1,3 +1,7 @@
+#CODED BY RHG1954
+#GMAIL:ryangraichi255@gmail.com
+
+
 #################### MPORTS ##############################
 import tkinter as tk
 from tkinter import *
